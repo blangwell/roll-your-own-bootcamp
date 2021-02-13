@@ -21,9 +21,12 @@ There are so many different paths to take into the world of programming. Knowing
 
 Once your interest has been piqued, the next big question is: which language should I learn? There are so many different programming languages to choose from and the choice will largely depend on what you are interested in building. For web development Javascript is a must, for machine learning you can utilize the power of Python, and for game design you have C# and C++. Pick just one language to start and stick with it for _at least_ three to six months. 
 
-_A biased recommendation: I started my programming journey with Python and now primarily write code in Javascript. When I was first starting, I found Python to be very easy to read and learn. Working with Python taught me the fundamentals of writing code. Then I enrolled in an immersive bootcamp where the primary language used was Javascript. Once I got the hang of the initially incomprehensible syntax of Javascript and discovered what a flexible language it is, it has been my primary language ever since._
+_A biased recommendation: I spent the first day of my programming journey attempting to learn Java. As a total beginner, I quickly found myself lost and overwhelmed. The next day, I told a developer friend of mine what I was up to and he suggested that I give Python a try instead. After glancing at Python and discovering how simple its syntax was compared to Java, I obtained a copy of Zed Shaw's excellent book Learn Python the Hard Way and dove in head-first. These days, I do most of my coding in Javacript, but I never would have gotten started if it wasn't for Python. If you want a beginner-friendly language with which to learn the basics, it's hard to beat Python._
 
 ## Phase Two - Gather Materials
+This step is arguably be the easiest one once you learn where to look. Once you have picked your subject of interest and the language you'd like to learn, it's time to gather learning materials. As long as you have access to an internet connection, you can obtain all of the academic materials you need to teach yourself programming (and a majority of the time you can get them for free.)
+
+There are many authors and publishers who make offer their books free of charge online. A few such books I've utilized during my travels are Al Sweigart's _Automate the Boring Stuff with Python_, Marijn Haverbeke's _Eloquent Javascript_, and Aditya Y. Bhargava's _Grokking Algorithms_.
 
 ## Phase Three - Set a Schedule
 
