@@ -21,12 +21,22 @@ There are so many different paths to take into the world of programming. Knowing
 
 Once your interest has been piqued, the next big question is: which language should I learn? There are so many different programming languages to choose from and the choice will largely depend on what you are interested in building. For web development Javascript is a must, for machine learning you can utilize the power of Python, and for game design you have C# and C++. Pick just one language to start and stick with it for _at least_ three to six months. 
 
-_A biased recommendation: I spent the first day of my programming journey attempting to learn Java. As a total beginner, I quickly found myself lost and overwhelmed. The next day, I told a developer friend of mine what I was up to and he suggested that I give Python a try instead. After glancing at Python and discovering how simple its syntax was compared to Java, I obtained a copy of Zed Shaw's excellent book Learn Python the Hard Way and dove in head-first. These days, I do most of my coding in Javacript, but I never would have gotten started if it wasn't for Python. If you want a beginner-friendly language with which to learn the basics, it's hard to beat Python._
+>A biased recommendation: I spent the first day of my programming journey attempting to learn Java. As a total beginner, I quickly found myself lost and overwhelmed. The next day, I told a developer friend of mine what I was up to and he suggested that I give Python a try instead. After glancing at Python and discovering how simple its syntax was compared to Java, I obtained a copy of Zed Shaw's excellent book Learn Python the Hard Way and dove in head-first. These days, I do most of my coding in Javacript, but I never would have gotten started if it wasn't for Python. If you want a beginner-friendly language with which to learn the basics, it's hard to beat Python.
 
 ## Phase Two - Gather Materials
 This step is arguably be the easiest one once you learn where to look. Once you have picked your subject of interest and the language you'd like to learn, it's time to gather learning materials. As long as you have access to an internet connection, you can obtain all of the academic materials you need to teach yourself programming (and a majority of the time you can get them for free.)
 
-There are many authors and publishers who make offer their books free of charge online. A few such books I've utilized during my travels are Al Sweigart's _Automate the Boring Stuff with Python_, Marijn Haverbeke's _Eloquent Javascript_, and Aditya Y. Bhargava's _Grokking Algorithms_.
+### Books
+There are many authors and publishers who offer their books free of charge online. A few such books I've utilized during my travels are Al Sweigart's [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), Marijn Haverbeke's [Eloquent Javascript](http://eloquentjavascript.net/), and Aditya Y. Bhargava's [Grokking Algorithms](https://livebook.manning.com/book/grokking-algorithms/about-this-book/). Of course, offering material for free is not common practice for all publishers and authors. If you can't find the book that you're looking for [Zlibrary](https://z-lib.org/) is a fantastic resource. Zlibrary allows you to download over six million books in various formats free of charge. 
+> Out of all of the times I have searched for a title Zlibrary, only twice has that book not been available. I cannot recommend this resource enough. Just make sure to support the authors when you are financially able to do so. 
+
+### Videos
+As you probably already know, Youtube is a goldmine of programming content. From short-form, single-subject videos to 12 hour long courses, there are countless content creators making videos on countless subjects and languages. Shop around and start building a playlist. Here are a few content creators to get the gears turning: 
+[Caleb Curry](https://www.youtube.com/c/CalebTheVideoMaker2), 
+[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A), 
+[Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 
+[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA).
+
 
 ## Phase Three - Set a Schedule
 
