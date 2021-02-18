@@ -31,12 +31,14 @@ There are many authors and publishers who offer their books free of charge onlin
 > Out of all of the times I have searched for a title Zlibrary, only twice has that book not been available. I cannot recommend this resource enough. Just make sure to support the authors when you are financially able to do so. 
 
 ### Videos
-As you probably already know, Youtube is a goldmine of programming content. From short-form, single-subject videos to 12 hour long courses, there are countless content creators making videos on countless subjects and languages. Shop around and start building a playlist. Here are a few content creators to get the gears turning: 
-[Caleb Curry](https://www.youtube.com/c/CalebTheVideoMaker2), 
-[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A), 
-[Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 
-[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA).
+As you probably already know, Youtube is a goldmine of programming content. From short-form, single-subject videos to 12 hour long courses, there are countless content creators making videos on countless subjects and languages. Try searching for your desired language and start building a playlist. Here are a few content creators to get the gears turning: 
+- [Caleb Curry](https://www.youtube.com/c/CalebTheVideoMaker2) 
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) 
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) 
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
+### Udemy 
+This will be the most expensive suggestion in this article. If you aren't familiar with Udemy, it's an online learning platform with thousands of development courses. Courses normally cost anwhere from $100 to $200, but Udemy frequently runs sales where you can purchase full 50+ hour courses for around $10. [Here is an article](https://skillscouter.com/how-often-does-udemy-have-sales/#comments) that explains when sales are run and how to navigate Udemy in a way that will make the most of your financial resources. Once you have decided what you want to study, if you can come up with $20 or so, you can purchase a couple of courses that will help add extra structure to your coding journey.
 
 ## Phase Three - Set a Schedule
 
