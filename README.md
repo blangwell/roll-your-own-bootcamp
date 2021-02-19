@@ -1,4 +1,4 @@
-# Roll your own Bootcamp
+# Roll Your Own Bootcamp
 
 ## The Premise
 Participating in an immersive coding bootcamp is a significant financial burden that a majority of working people do not have the privilege of being able to afford. There are numerous aspiring software engineers who do not possess the funds to pay a bootcamp's tuition and are unable to qualify for bank loans or Income Share Agreements. 
@@ -37,11 +37,18 @@ As you probably already know, Youtube is a goldmine of programming content. From
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) 
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
-### Udemy 
-This will be the most expensive suggestion in this article. If you aren't familiar with Udemy, it's an online learning platform with thousands of development courses. Courses normally cost anwhere from $100 to $200, but Udemy frequently runs sales where you can purchase full 50+ hour courses for around $10. [Here is an article](https://skillscouter.com/how-often-does-udemy-have-sales/#comments) that explains when sales are run and how to navigate Udemy in a way that will make the most of your financial resources. Once you have decided what you want to study, if you can come up with $20 or so, you can purchase a couple of courses that will help add extra structure to your coding journey.
+### FreeCodeCamp
+[FreeCodecamp](https://www.freecodecamp.org/) offers curriculum spanning several subjects including web design, data visualization, scientific computing, machine learning, and even interview preparation. Not only is all of the curriculum 100% free, but FreeCodeCamp also provides certifications for each course you complete as well as a user forum where you can connect with other students for debugging and moral support.
 
-## Phase Three - Set a Schedule
+### Udemy 
+This will be the most expensive suggestion in this article. If you aren't familiar with Udemy, it's an online learning platform with thousands of development courses. Courses normally cost anwhere from $100 to $200, but Udemy frequently runs sales where you can purchase full 50+ hour courses for around $10. [Here is an article](https://skillscouter.com/how-often-does-udemy-have-sales/#comments) that explains when sales are run and how to navigate Udemy in a way that will make the most of your financial resources.
+
+## Phase Three - Set your Schedule
+Once you've secured your learning materials, it's time to start shaping the outline and schedule of your bootcamp. This part will be a bit tricky when you are first getting started as it is hard to anticipate how much time a given subject will take to learn. Try not to get overly granular with your scheduling. Don't plan on spending exactly one day on functions or exactly one week on Express apps. Instead try planning in broad strokes. As a web development example: spend one month on learning HTML, CSS, and vanilla Javascript, one month on Node.js and SQL, and one month on a front end framework like React or Vue. 
+
+One of the defining characteristics of immersive bootcamps is a rigorous schedule. For at least five days per week you begin in the morning and code for at least 8 hours per day. As I've mentioned, you absolutely __DO NOT__ have to code 8+ hours per day to get started. You can start with one hour every other day or an hour twice per week. The most important thing is _consistency_. Once you set your schedule, stick to it and [surely you will accomplish your goal](https://www.youtube.com/watch?v=KxGRhd_iWuE).
 
 ## Phase Four - Build Something
+
 
 ## Phase Five - Establish a Support Network
