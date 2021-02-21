@@ -38,17 +38,33 @@ As you probably already know, Youtube is a goldmine of programming content. From
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
 ### FreeCodeCamp
-[FreeCodecamp](https://www.freecodecamp.org/) offers curriculum spanning several subjects including web design, data visualization, scientific computing, machine learning, and even interview preparation. Not only is all of the curriculum 100% free, but FreeCodeCamp also provides certifications for each course you complete as well as a user forum where you can connect with other students for debugging and moral support.
+[FreeCodecamp](https://www.freecodecamp.org/) is a nonprofit organization dedicated to helping people learn to code for free. They offer curriculum spanning several subjects including web design, data visualization, scientific computing, machine learning, and even interview preparation. Not only is all of the curriculum 100% free, but FreeCodeCamp also provides certifications for each course you complete as well as a user forum where you can connect with other students for debugging and moral support.
 
 ### Udemy 
 This will be the most expensive suggestion in this article. If you aren't familiar with Udemy, it's an online learning platform with thousands of development courses. Courses normally cost anwhere from $100 to $200, but Udemy frequently runs sales where you can purchase full 50+ hour courses for around $10. [Here is an article](https://skillscouter.com/how-often-does-udemy-have-sales/#comments) that explains when sales are run and how to navigate Udemy in a way that will make the most of your financial resources.
 
-## Phase Three - Set your Schedule
-Once you've secured your learning materials, it's time to start shaping the outline and schedule of your bootcamp. This part will be a bit tricky when you are first getting started as it is hard to anticipate how much time a given subject will take to learn. Try not to get overly granular with your scheduling. Don't plan on spending exactly one day on functions or exactly one week on Express apps. Instead try planning in broad strokes. As a web development example: spend one month on learning HTML, CSS, and vanilla Javascript, one month on Node.js and SQL, and one month on a front end framework like React or Vue. 
+## Phase Three - Outline your Curriculum and Set a Schedule
+Once you've secured your learning materials, it's time to start shaping the general outline of your bootcamp curriculum. This part will be a bit tricky when you are first getting started as it is hard to anticipate how much time a given subject will take to learn. Try not to get overly granular with your time-boxing. Don't plan on spending exactly one day on for loops or exactly one week on Express apps. Paint with broader strokes. As a web development example: maybe start with one month of vanilla Javascript, then a month of Node.js and SQL, and then a month of a front end framework like React or Vue. 
 
-One of the defining characteristics of immersive bootcamps is a rigorous schedule. For at least five days per week you begin in the morning and code for at least 8 hours per day. As I've mentioned, you absolutely __DO NOT__ have to code 8+ hours per day to get started. You can start with one hour every other day or an hour twice per week. The most important thing is _consistency_. Once you set your schedule, stick to it and [surely you will accomplish your goal](https://www.youtube.com/watch?v=KxGRhd_iWuE).
+Of course, one of the defining characteristics of immersive bootcamps is a rigorous daily schedule. In a full-time immersive, you code for at least eight hours per day, five days per week. Choose which days of the week work for you and __pick a realistic start time__. If you know that you don't work well early in the morning, schedule your time accordingly. Your schedule should challenge you but it should also set you up for success. We're learning to code, not engaging in self-flagellation (although the two activities sometimes feel similar.)
 
-## Phase Four - Build Something
+Remember, you absolutely __DO NOT__ have to code eight hours per day and five days per week to get started. You can start with one hour every other day or an hour twice per week. The most important key to success in learning to code is _consistency_. If you decide to do only an hour a day, stick with it. Consistently commit to your coding practice and [surely you will accomplish your goal](https://www.youtube.com/watch?v=KxGRhd_iWuE). 
 
+## Phase Four - Establish a Support Network
+-reddit 
+-freecodecamp forum
+-discord (udemy)
+-meetup
+-lunchclub
 
-## Phase Five - Establish a Support Network
+## Phase Five - Build Something
+Something I tell the students in my cohort is that there is a huge difference between learning a programming language and learning how to _use_ that programming language. You can master the syntax of a while loop or a ternary statement inside and out, but what really matters is what you can _do_ with those things.
+
+A great part about participating in bootcamp is the mandatory deliverables you are assigned. Having daily deliverables requires you to build something new each day and debug problems to completion without giving up. Push yourself to build something new each day. Your daily deliverables don't have to be groundbreaking. Just keep them simple and focus on the application of what you have learned that day. 
+
+Once a month, spend a week combining the things you have learned to create a larger project. Just like with your deliverables, these do not need to be masterpieces. Perfect is the enemy of good. Just aim to put the things you have learned up until that point together and build something cohesive that brings you joy. 
+
+>Deciding what to build can be just a challenging as building itself. [This Github Repo](https://github.com/karan/Projects) contains a bunch of great project ideas to help get you started.
+
+### A Word About Debugging
+When you hit bugs, which you inevitably will, utilize Google, your learning materials, and your support network to debug the problem until it is fixed. Debugging can be exhausting, but it's so vital that you don't give up. Bugs are a natural part of the development process. Even the most seasoned developers deal with bugs on a daily basis. In order to truly be a developer, you have to be courageous in the face of these problems. Getting stuck on a bug doesn't mean that you've failed or that you aren't smart enough. It means you're actually becoming a developer. 
