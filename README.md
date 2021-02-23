@@ -51,11 +51,12 @@ Of course, one of the defining characteristics of immersive bootcamps is a rigor
 Remember, you absolutely __DO NOT__ have to code eight hours per day and five days per week to get started. You can start with one hour every other day or an hour twice per week. The most important key to success in learning to code is _consistency_. If you decide to do only an hour a day, stick with it. Consistently commit to your coding practice and [surely you will accomplish your goal](https://www.youtube.com/watch?v=KxGRhd_iWuE). 
 
 ## Phase Four - Establish a Support Network
--reddit 
--freecodecamp forum
--discord (udemy)
--meetup
--lunchclub
+As with any change of lifestyle or habit, it is easier to sustain a coding practice when you are surrounded by like-minded people. Whether you need extra eyes on a troublesome bug or someone to talk to about imposter syndrome, it is vital to establish a support network for your bootcamp journey. Luckily, there is no shortage or resources to connect with like-minded people on the internet. This process is fairly self-explanatory, but here are a few places to start:
+- Reddit has many different subreddits for different languages and subjects ([r/learnpython](https://www.reddit.com/r/learnpython/) was a huge help to me when I first got started.) 
+- If you are utilizing FreeCodeCamp's curriculum, they have a [fantastic user forum](https://forum.freecodecamp.org/) that has sections for each subject in the curriculum, a section for project feedback, and even a section for motivation. 
+- Similarly to FreeCodeCamp, many educators on Udemy also offer community Discord servers to accompany their courses (for example, Maximilian Schwarzmüller's [Academind](https://www.udemy.com/user/academind/) has a bustling community of learners.) 
+- [Meetup](https://www.meetup.com/) is full of local and global groups dedicated to various topics. Being that all Meetups are currently taking place remotely, you are not limited to groups withing driving distace. [Junior Developer Happy Hour](https://www.meetup.com/Junior-Developer-Happy-Hour/) is a great group to check out.
+- [Lunchclub](https://lunchclub.com/) is an awesome service that helps you meet people via hour-long, one on one lunch meetings. You let Lunchclub know about your background and interests and their AI connects you with new people each week.   
 
 ## Phase Five - Build Something
 Something I tell the students in my cohort is that there is a huge difference between learning a programming language and learning how to _use_ that programming language. You can master the syntax of a while loop or a ternary statement inside and out, but what really matters is what you can _do_ with those things.
