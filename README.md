@@ -9,7 +9,6 @@ I would argue that there is little, if anything, in the technical curriculum of 
 1. In an immersive bootcamp you are forced to code every day. You spend anywhere from eight to twelve hours each day learning and building new things while solidifying your daily practice. 
 2. You are assigned mandatory deliverables (homework) that require you to debug issues to completion. 
 3. You are surrounded by like-minded individuals with whom you share a common goal. 
-4. Finally, bootcamps often offer post cohort outcomes support to help alumni get hired in the industry.
 
 If we break the bootcamp experience down to its composite parts, there is no reason why we cannot attempt to replicate it on our own. While we can't expect to create a facsimile, we can take steps to put our education and development into our own hands. 
 
@@ -52,11 +51,12 @@ Remember, you absolutely __DO NOT__ have to code eight hours per day and five da
 
 ## Phase Four - Establish a Support Network
 As with any change of lifestyle or habit, it is easier to sustain a coding practice when you are surrounded by like-minded people. Whether you need extra eyes on a troublesome bug or someone to talk to about imposter syndrome, it is vital to establish a support network for your bootcamp journey. Luckily, there is no shortage or resources to connect with like-minded people on the internet. This process is fairly self-explanatory, but here are a few places to start:
+
 - Reddit has many different subreddits for different languages and subjects ([r/learnpython](https://www.reddit.com/r/learnpython/) was a huge help to me when I first got started.) 
 - If you are utilizing FreeCodeCamp's curriculum, they have a [fantastic user forum](https://forum.freecodecamp.org/) that has sections for each subject in the curriculum, a section for project feedback, and even a section for motivation. 
 - Similarly to FreeCodeCamp, many educators on Udemy also offer community Discord servers to accompany their courses (for example, Maximilian Schwarzmüller's [Academind](https://www.udemy.com/user/academind/) has a bustling community of learners.) 
 - [Meetup](https://www.meetup.com/) is full of local and global groups dedicated to various topics. Being that all Meetups are currently taking place remotely, you are not limited to groups withing driving distace. [Junior Developer Happy Hour](https://www.meetup.com/Junior-Developer-Happy-Hour/) is a great group to check out.
-- [Lunchclub](https://lunchclub.com/) is an awesome service that helps you meet people via hour-long, one on one lunch meetings. You let Lunchclub know about your background and interests and their AI connects you with new people each week.   
+- [Lunchclub](https://lunchclub.com/) is a networking service that helps you meet people via hour-long, one on one lunch meetings via video chat. You let Lunchclub know about your background and interests and their AI connects you with new people each week.
 
 ## Phase Five - Build Something
 Something I tell the students in my cohort is that there is a huge difference between learning a programming language and learning how to _use_ that programming language. You can master the syntax of a while loop or a ternary statement inside and out, but what really matters is what you can _do_ with those things.
@@ -68,4 +68,7 @@ Once a month, spend a week combining the things you have learned to create a lar
 >Deciding what to build can be just a challenging as building itself. [This Github Repo](https://github.com/karan/Projects) contains a bunch of great project ideas to help get you started.
 
 ### A Word About Debugging
-When you hit bugs, which you inevitably will, utilize Google, your learning materials, and your support network to debug the problem until it is fixed. Debugging can be exhausting, but it's so vital that you don't give up. Bugs are a natural part of the development process. Even the most seasoned developers deal with bugs on a daily basis. In order to truly be a developer, you have to be courageous in the face of these problems. Getting stuck on a bug doesn't mean that you've failed or that you aren't smart enough. It means you're actually becoming a developer. 
+When you hit bugs, which you inevitably will, utilize Google, your learning materials, and your support network to debug the problem until it is fixed. Debugging can be exhausting, but it's so vital that you don't give up. Bugs are a natural part of the development process. Even the most seasoned developers deal with bugs on a daily basis. In order to truly be a developer, you have to be courageous in the face of these problems. Getting stuck on a bug doesn't mean that you've failed or that you aren't smart enough. It means you're actually becoming a developer
+
+## TLDR
+There is nothing in the technical curriculum of any coding bootcamp that you can't learn for free online. Gather materials and make a general monthly outline for your learning goals. Set a realistic daily schedule and stick to it. If you say you're going to code, even if it's just for just an hour or two each day, actually do it. Utilize the internet to build a support network of people who code or are learning to. Finally, put your skills to use and build something new each day. 
